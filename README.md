@@ -1,2 +1,3 @@
 # countdown
-Event countdown react-app
+
+React-Native based event countdown app
